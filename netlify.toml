@@ -1,5 +1,5 @@
 [build]
-  publish = "hbdMAson/webContents"
+  publish = "hbdMAson/WebContents"
   command = "ng build --prod"
 [[redirects]]
   from = "/*"
