@@ -1,7 +1,10 @@
 [build]
-  publish = "hbdMAson/WebContents"
-  command = "ng build --prod"
+  command: ng build --prod
+  publish: /opt/build/repo/hbdMAson/WebContents
+  commandOrigin: config
+  publishOrigin: config
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from: /*
+  to: /index.html
   status = 200
+  redirectsOrigin: config
