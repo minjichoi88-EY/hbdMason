@@ -1,0 +1,7 @@
+[build]
+  publish = "hbdMAson/webContents"
+  command = "ng build --prod"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
