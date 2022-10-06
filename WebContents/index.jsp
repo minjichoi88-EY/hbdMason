@@ -506,7 +506,7 @@ $(function(){
   </div>
   <div class="back">
     <div class="letter">
-			<p>I hope your day is as amazing and fun as </p><p>I am... </p>
+			<p>Lova you, and Happy Birthday For you</p><p>- Gina </p>
 				<p>HBD Mason !</p>
 
 	<div class="box">
